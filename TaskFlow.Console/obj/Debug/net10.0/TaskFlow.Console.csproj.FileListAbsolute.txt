@@ -1,0 +1,14 @@
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\bin\Debug\net10.0\TaskFlow.Console.exe
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\bin\Debug\net10.0\TaskFlow.Console.deps.json
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\bin\Debug\net10.0\TaskFlow.Console.runtimeconfig.json
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\bin\Debug\net10.0\TaskFlow.Console.dll
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\bin\Debug\net10.0\TaskFlow.Console.pdb
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\obj\Debug\net10.0\TaskFlow.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\obj\Debug\net10.0\TaskFlow.Console.AssemblyInfoInputs.cache
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\obj\Debug\net10.0\TaskFlow.Console.AssemblyInfo.cs
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\obj\Debug\net10.0\TaskFlow.Console.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\obj\Debug\net10.0\TaskFlow.Console.dll
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\obj\Debug\net10.0\refint\TaskFlow.Console.dll
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\obj\Debug\net10.0\TaskFlow.Console.pdb
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\obj\Debug\net10.0\TaskFlow.Console.genruntimeconfig.cache
+C:\Users\Usuário\taskflow-console-net\TaskFlow.Console\obj\Debug\net10.0\ref\TaskFlow.Console.dll
